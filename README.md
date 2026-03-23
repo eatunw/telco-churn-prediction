@@ -36,3 +36,10 @@ Python, pandas, scikit-learn, XGBoost, SHAP, Plotly
 
 Best model: Logistic Regression — AUC: 0.76, Churn Recall: 0.80
 
+## How to Run
+1. Clone the repo
+2. Open the notebook
+3. Run all cells
+
+## Author
+Emmanuel Atunde
