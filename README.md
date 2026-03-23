@@ -1,4 +1,4 @@
-# telco-churn-prediction
+# telco-churn-prediction-model
 
 # Telco Customer Churn Prediction
 
